@@ -1,0 +1,17 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.jfm
+
+# Publish / Release artifacts inside source
+01_SourceCode/**/bin/
+01_SourceCode/**/obj/
+
+# OS files
+Thumbs.db
+.DS_Store
