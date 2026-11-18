@@ -1,0 +1,8 @@
+# GitHub Repository Bilgisi
+
+- **Repository URL:** https://github.com/SeFaYuSuFk/25905007_SefaYusufKutuk_VehicleRentalSystem
+- **Görünürlük:** Private
+- **Collaborator:** `tohid-yousefi` (Dr. Öğr. Üyesi Tohid Yousefi)
+- **Öğrenci:** Sefa Yusuf Kütük (25905007)
+
+*(Ana `README.md` dosyası kök dizinde ve GitHub repository kökünde yer almaktadır.)*
